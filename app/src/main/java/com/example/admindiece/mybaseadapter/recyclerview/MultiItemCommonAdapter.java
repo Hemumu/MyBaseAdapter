@@ -8,7 +8,7 @@ import com.example.admindiece.mybaseadapter.ViewHolder;
 import java.util.List;
 
 /**
- * Created by 张小兵 on 2016/5/13 14:25.
+ * Created by helin on 2016/5/13 14:25.
  */
 public abstract class MultiItemCommonAdapter<T> extends CommentAdapter<T> {
 
