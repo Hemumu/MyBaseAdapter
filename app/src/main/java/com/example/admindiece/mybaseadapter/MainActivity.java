@@ -30,7 +30,5 @@ public class MainActivity extends AppCompatActivity {
                 holder.setText(R.id.id_item_list_title, o);
             }
         });
-
-
     }
 }
