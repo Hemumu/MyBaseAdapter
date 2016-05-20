@@ -1,3 +1,3 @@
 # MyBaseAdapter
 通用Adapter
-测试
+参考自 https://github.com/hongyangAndroid/baseAdapter
